@@ -1,6 +1,6 @@
 
 var respecConfig = {
-    specStatus: "ZZ-DRAFT",
+    specStatus: "unofficial",
     shortName: 'cube-link',
     maxTocLevel: 4,
     latestVersion: "https://cube.link",
@@ -8,7 +8,7 @@ var respecConfig = {
     publishDate: "2025-11-04",
     github: {
       repoURL: "https://github.com/zazuko/cube-link",
-      branch: "documentation", // alternative branch
+      branch: "main", // alternative branch
     },
     otherLinks: [
       {
